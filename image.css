@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient( to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.container{
+    column-count: 5;
+    column-width: 300px;
+}
+.grid{
+    margin: 50px 20px 10px;
+    max-width: 30px;
+    width: 70%;
+}
+
+.pics{
+    width: 200px;
+    border: 5px solid red;
+    border-radius: 10px;
+    pad: ;
+}
+
+img{
+
+}
